@@ -1,0 +1,13 @@
+current directory: /Users/berkayakbas/the/PrimeCut/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+/Users/berkayakbas/.rbenv/versions/3.1.2/bin/ruby -I /Users/berkayakbas/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/berkayakbas/the/PrimeCut/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231206-46044-2vyqnb sitelibdir\=./.gem.20231206-46044-2vyqnb clean
+
+current directory: /Users/berkayakbas/the/PrimeCut/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231206-46044-2vyqnb sitelibdir\=./.gem.20231206-46044-2vyqnb
+make: Nothing to be done for `all'.
+
+current directory: /Users/berkayakbas/the/PrimeCut/vendor/bundle/ruby/3.1.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20231206-46044-2vyqnb sitelibdir\=./.gem.20231206-46044-2vyqnb install
